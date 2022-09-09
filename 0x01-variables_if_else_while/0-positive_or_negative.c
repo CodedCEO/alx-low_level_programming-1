@@ -14,20 +14,21 @@ int main(void)
 
 	strand(time(0));
 	n = rand() - RAND_MAX / 2;
-	if (n == 0)
-	{
-		printf("%i is zero\n", n);
-	}
 
-	else if (n < 0)
-	{
-		printf("%i is negative\n", n);
-	}
+if (n == 0)
+{
+printf("%i is zero\n", n);
+}
 
-	else
-	{
-		print ("%i is positive\n", n);
-	}
+else if (n < 0)
+{
+printf("%i is negative\n", n);
+}
 
-	return (0);
+else
+{
+print ("%i is positive\n", n);
+}
+
+return (0);
 }
