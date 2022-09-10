@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - prints the last digit of n
  * greater than 5, 0, or less than 6
- * retur: 0
+ * Return: 0 Always
  */
 int main(void)
 {
