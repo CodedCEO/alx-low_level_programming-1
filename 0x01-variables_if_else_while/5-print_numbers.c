@@ -7,10 +7,10 @@
  */
 int main(void)
 {
-	int b;
+int b;
 
-	for (b = 0; b < 10; b++)
-	printf("%i" , b);
-	printf("\n");
-	return (0);
+for (b = 0; b < 10; b++)
+printf("%i" , b);
+printf("\n");
+return (0);
 }
