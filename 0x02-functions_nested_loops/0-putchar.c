@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * Main is the entry point.
- * The program prints putchar followed by a new line.
- * And always return 0
+ * main - Entry point.
+ * Description: write a program that prints "_putchar" followed by a new line.
+ * Return: Always 0
  */
 int main(void)
 {
