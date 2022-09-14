@@ -39,9 +39,9 @@ void print_times_table(int n)
 					_putchar(' ');
 					_putchar((p / 100) + '0');
 					_putchar(((p / 10) % 10) + '0');
-					_putchar((k % 10) + '0');
+					_putchar((p % 10) + '0');
 				}
 			}
-			_putchar('\n');
+		_putchar('\n');
 	}
 }
