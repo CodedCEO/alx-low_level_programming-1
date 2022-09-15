@@ -9,7 +9,7 @@ int main(void)
 {
 int i;
 
-printf("Infinit loop incommig :(\n");
+printf("Infinite loop incommig :(\n");
 
 i = 0;
 
