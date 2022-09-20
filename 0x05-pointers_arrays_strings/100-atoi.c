@@ -21,7 +21,7 @@ int _atoi(char *s)
 
 	for (i = 0; s[i] != '\0'; i++)
 	{
-		if (is_numerical(s[i]))
+		if(is_numerical(s[i]))
 		{
 			number = (s[i] - 48) + number * 10;
 
