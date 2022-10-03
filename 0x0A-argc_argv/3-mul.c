@@ -20,5 +20,5 @@ int main(int argc, char **argv)
 		multiplication = atoi(*(argv + 1)) * atoi(*(argv + 2));
 		printf("%i\n", multiplication);
 	}
-	return (0)
+	return (0);
 }
