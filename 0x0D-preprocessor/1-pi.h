@@ -1,5 +1,5 @@
-#ifndef _OBJECT_LIKE_MACRO_
-#define _OBJECT_LIKE_MACRO_
+#ifndef _PI_
+#define _PI_
 
 #define PI 22/7.0
 
