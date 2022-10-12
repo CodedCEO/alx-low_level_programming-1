@@ -7,8 +7,8 @@
  *
  * Return: nothing
  */
-void print_name(char *name, void (*heze)(char *))
+void print_name(char *name, void (*f)(char *))
 {
-	if (name && heze)
-		heze(name);
+	if (name && f)
+		f(name);
 }
